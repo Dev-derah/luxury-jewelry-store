@@ -12,6 +12,10 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        "alex-brush": ["var(--font-alex-brush)"],
+        satoshi: ["var(--font-satoshi)"],
+      },
     },
   },
   plugins: [],
